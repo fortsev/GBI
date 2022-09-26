@@ -442,7 +442,7 @@
         }
     });
 
-    // Активация модалки
+    4
     //   if($(".product-detail-modal").length) {
     //     productModal();
     //   }
